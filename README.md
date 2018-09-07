@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <!-- CSS Stylesheets with Relative Paths -->
@@ -25,7 +24,7 @@
         <h2 id="bio-name">Brandi Graham</h2>
         <img id="bio-image" src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/32240366_10101260914294802_2664610560980549632_n.jpg?_nc_cat=0&oh=1a8225bf3b4cff4b1239c96f6b852ea6&oe=5BED2CED" alt="Your Name" height="420" align = "left">
       </section>
-      <p>Experienced Content Strategist .
+      <p>Experienced Content Strategist with established skills in Academic Publishing, Editing, Publications, and Project Management. Strong collaborator and lifelong learner, working towards a Certificate of Completion focused in Data Analytics and Visualization from Washington University in St. Louis. Dedicated professional who excels at identifying and solving problems, building and strengthening strategic alliances, and being a team player and a reliable ‘go-to’ resource for colleagues.
 
       </a></p>
     </section>
