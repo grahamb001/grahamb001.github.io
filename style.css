@@ -1,0 +1,39 @@
+body{
+    background-color: #E0E0FF;
+    color:#E0E0FF
+}
+
+.navbar-brand{
+    font: bolder;
+    font-size: 30pt;
+    background-color: #1b203a;
+    -webkit-text-fill-color: #E0E0FF;
+}
+
+.container{
+    background-color: #1b203a;
+    -webkit-text-stroke-color: #E0E0FF;
+}
+.footer{
+      height: 50px;
+      background-color: #1b203a;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+  }
+
+.p{
+    -webkit-text-fill-color: #E0E0FF
+}
+.card-body{
+    -webkit-text-fill-color:#1b203a   
+}
+
+.pb-4{
+    -webkit-text-fill-color:#1b203a  
+}
+.navbar{
+    font-size: x-large;
+}
